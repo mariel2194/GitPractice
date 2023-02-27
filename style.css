@@ -21,3 +21,7 @@ h3 {
     font-size: 21px;
     color: gray;
 }
+
+image {
+    display: block;
+}
