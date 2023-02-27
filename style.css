@@ -25,3 +25,7 @@ h3 {
 image {
     display: block;
 }
+
+video {
+    padding: 25px;
+}
